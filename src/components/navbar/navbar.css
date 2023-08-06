@@ -1,0 +1,29 @@
+.main-navbar{
+    color: white;
+    font-size: 1rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.navbar-text{
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+
+.navbar-text .sp-text{
+    margin-right: 2rem;
+}
+
+.navbar-image-dollar{
+    align-items: flex-start;
+}
+
+.navbar-image-eye{
+    height:3rem;
+    width:6rem;
+    margin-right: 1rem;
+}
