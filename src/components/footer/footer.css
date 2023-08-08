@@ -1,0 +1,39 @@
+.footer{
+    margin-left: 8rem;
+    margin-top: -5rem;
+    z-index: 9;
+    position: absolute;
+    padding-bottom: 2rem;
+    display: flex;
+}
+
+.social-box{
+    margin-left: 2rem;
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 0.5rem;
+    width:10rem;
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.social-box-text{
+    color: white;
+    margin-left: 0.5rem;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.footer-text{
+    color: #B6B6B6;
+    width:33rem;
+    font-size: 0.8rem;
+    margin-bottom: -2rem;
+    margin-top: -1rem;
+    margin-left: 5rem;
+}
+
+.icons{
+    margin-left:1rem ;
+}

@@ -14,5 +14,10 @@
     display: -webkit-box;
     margin-left: auto;
     margin-right: 20rem;
-    margin-top: -15rem;
+    margin-top: -12rem;
+}
+
+.cubes-image{
+    margin-left: 15rem;
+    margin-top: -3rem;
 }
